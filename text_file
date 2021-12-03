@@ -1,0 +1,15 @@
+What is Agile Methodology?
+Agile software development refers to a group of software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams. Agile methods or Agile processes generally promote a disciplined project management process that encourages frequent inspection and adaptation, a leadership philosophy that encourages teamwork, self-organization and accountability, a set of engineering best practices intended to allow for rapid delivery of high-quality software, and a business approach that aligns development with customer needs and company goals. Agile development refers to any development process that is aligned with the concepts of the Agile Manifesto. The Manifesto was developed by a group of fourteen leading figures in the software industry, and reflects their experience of what approaches do and do not work for software development.
+
+Differences between Git and GitHub.
+Below is a table of differences between Git and GitHub:
+
+	Git	                                                                        GitHub
+1.	Git is a software.	                                                GitHub is a service.
+2.	Git is a command-line tool	                                        GitHub is a graphical user interface
+3.	Git is installed locally on the system.                                 GitHub is hosted on the web
+4.	Git is maintained by linux.	                                        GitHub is maintained by microsoft.
+5.	Git is focused on version control and code sharing.	                GitHub is focused on centralized source code hosting.
+6.	Git is a version control system to manage source code history.	        GitHub is a hosting service for Git repositories.
+7.	Git was first released in 2005.	                                        GitHub was launched in 2008.
+8.	Git has no user management feature.	                                GitHub has built-in user management feature.
